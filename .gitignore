@@ -1,4 +1,6 @@
 .env
-session_name.session
+session_name*
 voice_ua.mp3
 venv
+.idea
+__pycache__
